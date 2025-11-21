@@ -1,7 +1,4 @@
-# Maltimart Ecommerce
-
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+# Multimart Ecommerce
 
 ## 😎 Features
 
@@ -44,5 +41,4 @@ $ npm install
 # Start development server
 $ npm start
 ```
-👨‍💻 Happy coding!
 ---
